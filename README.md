@@ -1,5 +1,7 @@
 # Monitor de Progresso com Arduino e Display ILI9341
 
+![Preview do Projeto](preview.gif)
+
 Este é o meu primeiro projeto desenvolvido com Arduino, focado no estudo prático de integração entre hardware e software. O objetivo principal foi entender a leitura de sinais analógicos, o controle de periféricos visuais (TFT LCD) e a lógica de estados simples.
 
 O projeto foi totalmente desenvolvido e testado utilizando o simulador [**Wokwi**](https://wokwi.com/).
